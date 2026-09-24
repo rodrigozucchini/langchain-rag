@@ -21,7 +21,6 @@ If you need any adjustments or additional information, let me know!
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/CristianPerafan/Retrieval-Augmented-Generation.git
     cd Retrieval-Augmented-Generation
     ```
 2. Create a virtual environment
