@@ -1,4 +1,5 @@
 # **Retrieval-Augmented-Generation**
+<img width="1066" height="446" alt="image" src="https://github.com/user-attachments/assets/fffe988d-ab3a-4da3-b0b3-db6ac3146859" />
 
 
 
